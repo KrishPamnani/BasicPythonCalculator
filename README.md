@@ -14,5 +14,7 @@ This is a simple and intuitive command-line calculator built using Python. It su
 - Run the script: python calculator.py
 
 # Screenshots:
-https://github.com/KrishPamnani/BasicPythonCalculator/blob/main/Basic_calculator_ss01.png
+![Basic_calculator_ss01](https://github.com/user-attachments/assets/86494d9b-9b15-471d-b318-71d4d4cb50d3)
 
+
+![Basic_calculator_ss02](https://github.com/user-attachments/assets/dde79e31-3186-4f5c-a7e5-4b3ee87dd4fd)
