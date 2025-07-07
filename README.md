@@ -12,3 +12,7 @@ This is a simple and intuitive command-line calculator built using Python. It su
 
 - # Usage
 - Run the script: python calculator.py
+
+# Screenshots:
+https://github.com/KrishPamnani/BasicPythonCalculator/blob/main/Basic_calculator_ss01.png
+
